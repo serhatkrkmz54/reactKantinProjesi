@@ -13,15 +13,15 @@ gibi daha bir çok özelliği desteklemektedir.
 
 ## Projeye ait görüntüler:
 
-<img src="./github-readme-photos/1.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/2.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/3.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/4.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/5.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/6.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/7.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/8.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/9.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/10.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/11.jpg" alt="alt yazı" width="320">
-<img src="./github-readme-photos/12.jpg" alt="alt yazı" width="320">
+<img src="./github-readme-photos/1.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/2.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/3.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/4.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/5.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/6.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/7.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/8.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/9.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/10.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/11.jpg" alt="alt yazı" width="820">
+<img src="./github-readme-photos/12.jpg" alt="alt yazı" width="820">
