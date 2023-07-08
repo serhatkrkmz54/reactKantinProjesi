@@ -26,7 +26,7 @@ export default function kantinHeyetiSayfasi() {
             data: {
                 image: '/layout/images/default-profile.png',
                 name: 'Sedat K....',
-                title: 'Alay Komutanı'
+                title: 'Birlik Sorumlusu'
             },
             children: [
                 {
