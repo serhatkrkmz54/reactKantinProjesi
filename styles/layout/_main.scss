@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    font-size: $scale;
+
+    ::-webkit-scrollbar {
+    width: 9px;
+    background-color: #EFF3F8;
+    }
+
+    ::-webkit-scrollbar-thumb{
+    background-color: #EACF79;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+    background-color: #9b7b29;
+    }
+}
+
+@font-face {
+    font-family: "Dosis";
+    src: url ("fonts\Dosis.ttf") format('truetype'); 
+  }
+  
+body {
+    font-family: var(--font-family);
+    color: var(--text-color);
+    background-color: var(--surface-ground);
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.layout-wrapper {
+    min-height: 100vh;
+}
+
+.scrollpanel-demo .p-scrollpanel.custombar1 .p-scrollpanel-wrapper {
+    border-right: 10px solid var(--surface-ground);
+}
+
+.scrollpanel-demo .p-scrollpanel.custombar1 .p-scrollpanel-bar {
+    background-color: var(--primary-300);
+    opacity: 1;
+    transition: background-color .3s;
+}
+
+.scrollpanel-demo .p-scrollpanel.custombar1 .p-scrollpanel-bar:hover {
+    background-color: var(--primary-400);
+}
+
+.red-background {
+    background-color: var(--red-300);;
+  }
+  
+  .green-background {
+    background-color: var(--green-400);;
+  }
