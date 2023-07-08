@@ -34,7 +34,7 @@ gibi daha bir çok özelliği desteklemektedir.
 2. Local olarak localhost:8000 default portu kullanılarak CRUD işlemleri yapılmıştır.
 3. Axios kütüphanesi kullanılmıştır.
 4. Tasarım responsive olarak kodlanmıştır. Tüm ekran modellerine uygun çalışmaktadır.
-5. Engin barkod okuyucu ile denenmiş ve başarılı olmuştur.
+5. Barkod okuyucu ile denenmiş ve başarılı olmuştur.
 6. Hata denetimi için paneli mevcuttur.
 
 **_ Proje hala geliştirilme aşamasındadır yeni özellikler eklenecektir. _**
