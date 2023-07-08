@@ -1,5 +1,5 @@
 # Kantin Otomasyon Projesi
-### Frontend kısmı React tabanlı Next JS kullanılarak `*[create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)*` komutuyla oluşturulmuştur.
+### Frontend kısmı React tabanlı Next JS kullanılarak *[create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)* komutuyla oluşturulmuştur.
 - Xampp kullanılarak localhost üzerinden veritabanı işlemlerini yapmaktadır.
 - API (backend) tarafı Laravel 10 kullanılarak yazılmıştır.
 - Proje barkod okuyucusu ile ve manuel olarak çalışmaktadır.
