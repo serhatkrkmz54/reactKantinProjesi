@@ -40,6 +40,6 @@ gibi daha bir çok özelliği desteklemektedir.
 **_ Proje hala geliştirilme aşamasındadır yeni özellikler eklenecektir. _**
 
 ### Frontend tarafını geliştiren:
-**J.Mu.Asb.Çvş. Serhat KORKMAZ**
+`J.Mu.Asb.Çvş. Serhat KORKMAZ`
 ### Backend API tarafını geliştiren:
-**J.Uzm.Çvş.Mu. Ersan CENGİZ**
+`J.Uzm.Çvş.Mu. Ersan CENGİZ`
