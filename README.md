@@ -1,6 +1,8 @@
 # Kantin Otomasyon Projesi
 ### Frontend kısmı React tabanlı Next JS kullanılarak *[create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)* komutuyla oluşturulmuştur.
 - Xampp kullanılarak localhost üzerinden veritabanı işlemlerini yapmaktadır.
+- Componentler PrimeReact kullanılarak yazılmıştır.
+- Sass kullanılarak yazılmıştır.
 - API (backend) tarafı Laravel 10 kullanılarak yazılmıştır.
 - Proje barkod okuyucusu ile ve manuel olarak çalışmaktadır.
 - Gelen ürünü girme,
@@ -25,3 +27,19 @@ gibi daha bir çok özelliği desteklemektedir.
 <img src="./github-readme-photos/10.jpg" alt="alt yazı" width="820">
 <img src="./github-readme-photos/11.jpg" alt="alt yazı" width="820">
 <img src="./github-readme-photos/12.jpg" alt="alt yazı" width="820">
+
+## Projede neler kullanıldı ?
+
+1. Projeye Primereact kütüphanesi kurularak componentleri kullanılmıştır.
+2. Local olarak localhost:8000 default portu kullanılarak CRUD işlemleri yapılmıştır.
+3. Axios kütüphanesi kullanılmıştır.
+4. Tasarım responsive olarak kodlanmıştır. Tüm ekran modellerine uygun çalışmaktadır.
+5. Engin barkod okuyucu ile denenmiş ve başarılı olmuştur.
+6. Hata denetimi için paneli mevcuttur.
+
+**_ Proje hala geliştirilme aşamasındadır yeni özellikler eklenecektir. _**
+
+### Frontend tarafını geliştiren:
+**J.Mu.Asb.Çvş. Serhat KORKMAZ**
+### Backend API tarafını geliştiren:
+**J.Uzm.Çvş.Mu. Ersan CENGİZ**
