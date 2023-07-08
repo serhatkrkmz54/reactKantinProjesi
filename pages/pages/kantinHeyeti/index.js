@@ -25,7 +25,7 @@ export default function kantinHeyetiSayfasi() {
             style: { borderRadius: '12px' },
             data: {
                 image: '/layout/images/default-profile.png',
-                name: 'Yılmaz KIRGEL',
+                name: 'Sedat K....',
                 title: 'Alay Komutanı'
             },
             children: [
@@ -36,22 +36,22 @@ export default function kantinHeyetiSayfasi() {
                     style: { borderRadius: '12px' },
                     data: {
                         image: '/layout/images/default-profile.png',
-                        name: 'Mukadder DEMİR',
+                        name: 'Sedat K...',
                         title: 'Kantin Başkanı'
                     },
                     children: [
                         {
-                            label: 'Mesut YILMAZ',
+                            label: 'Mesut K...',
                             className: 'bg-teal-500 text-white',
                             style: { borderRadius: '12px' }
                         },
                         {
-                            label: 'Rahman UÇAR',
+                            label: 'Rahman K...',
                             className: 'bg-teal-500 text-white',
                             style: { borderRadius: '12px' }
                         },
                         {
-                            label: 'Orhan GÜLLÜ',
+                            label: 'Orhan K...',
                             className: 'bg-teal-500 text-white',
                             style: { borderRadius: '12px' }
                         },

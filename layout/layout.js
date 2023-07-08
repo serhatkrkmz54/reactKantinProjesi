@@ -106,7 +106,7 @@ const Layout = (props) => {
         <React.Fragment>
             
             <Head>
-                <title>Kantin Otomasyonu v2.0 - Afyonkarahisar İl J.K.lığı</title>
+                <title>Kantin Otomasyonu</title>
                 <meta charSet="UTF-8" />
                 <meta name="viewport" content="initial-scale=1, width=device-width" />
                 <link rel="icon" href={`/favicon.ico`} type="image/x-icon"></link>
